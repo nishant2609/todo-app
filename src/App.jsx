@@ -1,3 +1,4 @@
+// Member 3 - Ramratan - Adding notes
 import { useState, useEffect, useRef } from "react";
 
 const CATEGORIES = ["All", "Work", "Personal", "Shopping", "Health", "Study"];
