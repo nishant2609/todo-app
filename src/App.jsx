@@ -1,4 +1,4 @@
-// Member 3 - Gauri- Adding Date features
+// Member 3 - Harsh- Adding Reminder features
 // Import { useState, useEffect, useRef } from "react";
 
 const CATEGORIES = ["All", "Work", "Personal", "Shopping", "Health", "Study"];
