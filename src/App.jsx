@@ -1,4 +1,4 @@
-// Member 4 - Anchal- Adding Darkmode features
+// Member 5 - Anchal- Adding Darkmode features
 // Import { useState, useEffect, useRef } from "react";
 
 const CATEGORIES = ["All", "Work", "Personal", "Shopping", "Health", "Study"];
