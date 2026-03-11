@@ -1,4 +1,4 @@
-// Member 4 - Harsh- Adding Reminder features
+// Member 4 - Anchal- Adding Darkmode features
 // Import { useState, useEffect, useRef } from "react";
 
 const CATEGORIES = ["All", "Work", "Personal", "Shopping", "Health", "Study"];
