@@ -1,5 +1,7 @@
 // Member 3 - Ramratan - Adding notes
 import { useState, useEffect, useRef } from "react";
+// Member 2 - Gauri- Adding Date features
+// Import { useState, useEffect, useRef } from "react";
 
 const CATEGORIES = ["All", "Work", "Personal", "Shopping", "Health", "Study"];
 const PRIORITIES = ["Low", "Medium", "High"];
