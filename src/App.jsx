@@ -1,6 +1,7 @@
 // Member 2 - Gauri - Adding Date features
 // Member 3 - Ramratan - Adding Notes feature
 // Member 4 - Harsh - Adding Reminder features
+// Member 5 - Anchal - Adding Dark mode feature
 import { useState, useEffect, useRef } from "react";
 
 const CATEGORIES = ["All", "Work", "Personal", "Shopping", "Health", "Study"];
