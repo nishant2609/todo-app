@@ -1,3 +1,4 @@
+// Member 1 - Nishant - Core App & managing git approvals
 // Member 2 - Gauri - Adding Date features
 // Member 3 - Ramratan - Adding Notes feature
 // Member 4 - Harsh - Adding Reminder features
